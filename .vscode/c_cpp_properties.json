@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "compilerPath": "cl.exe",
+            "cppStandard": "c++20",
+            "includePath": [
+                "${workspaceFolder}/_Engine/includes",
+                "${workspaceFolder}/Royal_Odd/includes",
+                "C:/vcpkg/installed/x64-windows/include"
+            ]
+        }
+    ],
+    "version": 4
+}
